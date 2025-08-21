@@ -1,0 +1,2 @@
+# Physically-and-Knowledge-Informed-DL-for-Ms-in-Steels-Pengxin-Wang-and-G.-M.-A.-M.-El-Fallah
+Physics- &amp; knowledge-informed deep learning for predicting martensite start temperature (Mₛ) in steels. Multi-branch inputs (composition/physical/empirical) with Transformer fusion. Includes dataset, training scripts, ablation, SHAP interpretability, sensitivity analysis, and baselines (MLP/XGB/RF/GBDT/Lasso; optional GNN).
