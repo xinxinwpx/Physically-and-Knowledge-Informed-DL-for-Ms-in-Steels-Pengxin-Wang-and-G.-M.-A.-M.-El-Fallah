@@ -32,10 +32,6 @@ Scripts save (names may vary): best model weights (e.g., `best_ms_model_transfor
 Fixed random seeds (e.g., 42) are set; data are standardised per branch (composition/physical/empirical); early stopping is enabled; Optuna trials default to a moderate value (tune for your compute). Predictions are inverse-transformed to °C before reporting metrics.
 
 ## Citation
-If you use this repository, please cite: Pengxin Wang; G. M. A. M. El-Fallah. *Physically- and Knowledge-Informed Deep Learning for Robust Prediction of Martensite Start Temperature in Steels*, University of Leicester, 2025.
+If you use this repository, please cite: Pengxin Wang; G. M. A. M. El-Fallah. *Physically- and Knowledge-Informed Deep Learning for Robust Prediction of Martensite Start Temperature in Steels*, 
 
-## Licence
-Add a licence file of your choice (e.g., MIT or Apache-2.0).
 
-## Acknowledgements
-We thank colleagues for discussions. This work uses PyTorch, scikit-learn, XGBoost, SHAP, Optuna, and (optionally) PyTorch Geometric.
